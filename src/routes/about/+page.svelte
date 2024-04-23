@@ -6,7 +6,5 @@
 <div class="text-column">
 	<h1>About this app</h1>
 
-	<p>
-		This is a Template for TeamiIT
-	</p>
+	<p>This is a Template for TeamiIT</p>
 </div>

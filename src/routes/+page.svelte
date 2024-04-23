@@ -1,6 +1,6 @@
 <script>
-	import Counter from './Counter.svelte';
-	import Greet from '../lib/Greet.svelte';
+	import Counter from './Counter.svelte'
+	import Greet from '../lib/Greet.svelte'
 </script>
 
 <svelte:head>
@@ -12,8 +12,10 @@
 	<h1>
 		<span class="welcome">
 			<picture>
-				<img src={"https://teamit.fi/wp-content/uploads/2023/09/teamit-spotlight-L-new.svg"} alt="Welcome" />
-
+				<img
+					src={'https://teamit.fi/wp-content/uploads/2023/09/teamit-spotlight-L-new.svg'}
+					alt="Welcome"
+				/>
 			</picture>
 		</span>
 		Send IPC to Tauri´s Backend in Rust Universe
