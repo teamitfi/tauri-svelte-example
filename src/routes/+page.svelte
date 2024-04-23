@@ -1,6 +1,7 @@
 <script>
 	import Counter from './Counter.svelte'
 	import Greet from '../lib/Greet.svelte'
+	import Slider from '$lib/Slider.svelte'
 </script>
 
 <svelte:head>
@@ -20,7 +21,7 @@
 		</span>
 		Send IPC to Tauri´s Backend in Rust Universe
 	</h1>
-
+	<Slider />
 	<Greet />
 	<Counter />
 </section>
