@@ -1,4 +1,5 @@
 # Tauri SvelteKit 4 TeamIT
+<img width="1316" alt="Screenshot 2024-04-23 at 22 42 16" src="https://github.com/teamitfi/tauri-svelte-example/assets/8963529/706bd3ed-6038-478f-90e7-f56d79ba3fb3">
 
 - **Tauri**
 - **SvelteKit**
